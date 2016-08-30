@@ -125,6 +125,7 @@ Library
                      Crypto.PubKey.ECC.Generate
                      Crypto.PubKey.ECC.Prim
                      Crypto.PubKey.ECC.DH
+                     Crypto.PubKey.ECC.DH.P256
                      Crypto.PubKey.ECC.ECDSA
                      Crypto.PubKey.ECC.P256
                      Crypto.PubKey.ECC.Types
